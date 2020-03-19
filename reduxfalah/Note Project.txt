@@ -1,0 +1,5 @@
+Assallamualaikum pak dimas
+mohon maaf pak saya ingin memberitahu bahwa
+folder project nya namanya reduxfalah pak
+yg namanya redux saja itu salah pak karena saat melakukan install react-redux muncul error
+Terima kasih pak
